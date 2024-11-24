@@ -1,0 +1,22 @@
+{
+    "0": {
+        "type": "chair",
+        "quantity": 25
+    },
+    "2": {
+        "type": "notebook",
+        "quantity": 25
+    },
+    "3": {
+        "type": "monitor",
+        "quantity": 25
+    },
+    "4": {
+        "type": "air conditioner",
+        "quantity": 1
+    },
+    "5": {
+        "type": "CEO CHAIR",
+        "quantity": 1
+    }
+}

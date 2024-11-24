@@ -1,0 +1,27 @@
+{
+    "1": {
+        "title": "Pink Bahamans",
+        "author": "Amanda",
+        "isbn": "743743743"
+    },
+    "2": {
+        "title": "PHP for newbies",
+        "author": "Basanta",
+        "isbn": "103456103456"
+    },
+    "6": {
+        "title": "Vivi on Perth",
+        "author": "VPC",
+        "isbn": "10102"
+    },
+    "7": {
+        "title": "PHP life",
+        "author": "Vini P.",
+        "isbn": "789234"
+    },
+    "8": {
+        "title": "Arthur",
+        "author": "Perth life",
+        "isbn": "12312312"
+    }
+}
