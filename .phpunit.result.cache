@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BookTest::testBookDetails":7,"ResourceTest::testResourceDetails":7},"times":{"BookTest::testBookCreation":1.018,"BookTest::testBookDetails":0,"ResourceTest::testResourceCreation":0,"ResourceTest::testResourceDetails":0}}
